@@ -52,18 +52,3 @@ $ kobrad
 
 ## Discord
 Join our discord server using the following link : https://discord.gg/ahnm5zENqg
-
-## Issue Tracker
-
-The [integrated github issue tracker](https://github.com/kobradag/kobrad/issues)
-is used for this project.
-
-## Documentation
-
-The [documentation](https://github.com/kobradag/docs) is a work-in-progress
-
-## License
-
-pyipad is licensed under the copyfree [ISC License](https://choosealicense.com/licenses/isc/).
-# kobrad
- 
